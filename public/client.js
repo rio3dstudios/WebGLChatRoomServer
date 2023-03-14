@@ -134,5 +134,3 @@ window.onload = (e) => {
 	
   }
 
-
-
